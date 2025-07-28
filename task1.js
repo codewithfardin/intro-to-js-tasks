@@ -1,6 +1,6 @@
 // Input
-const yourTaka = 1000;   // Money you have
-const totalCost = 700;   // Cost of oranges + apples
+const yourTaka = 1000;   
+const totalCost = 700;
 
 // Calculation
 const returnMoney = yourTaka - totalCost;
